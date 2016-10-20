@@ -1,0 +1,5 @@
+<resources>
+    <string name="afi_movies_one">AFI Movies One</string>
+    <string name="filmTitleOne"></string>
+    <string name="selectRandomFilm">Select Random Film</string>
+</resources>
